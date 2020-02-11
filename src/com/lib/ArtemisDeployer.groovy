@@ -66,7 +66,7 @@ def deployer(){
 		timestamps {
 			ws {
 				echo "Slack"
-				//slackSend color: '#BADA55', message: 'Hello, World!'
+				//slackSend color: '#BADA55', message: 'Hello, World'
 			}
 		}
 		
